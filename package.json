@@ -1,0 +1,23 @@
+{
+  "name": "hangman",
+  "version": "0.0.1",
+  "description": "hangman game",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patella08/Hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patella08/Hangman/issues"
+  },
+  "homepage": "https://github.com/patella08/Hangman#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "is-letter": "^1.1.1"
+  }
+}
